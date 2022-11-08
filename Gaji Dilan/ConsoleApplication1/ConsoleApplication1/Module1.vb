@@ -203,7 +203,7 @@ Module Module1
 
         Dim myWriter As StreamWriter
 
-        myWriter = My.Computer.FileSystem.OpenTextFileWriter("D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\[Coding] Dilan 7-11-22 VB\" & filename, True)
+        myWriter = My.Computer.FileSystem.OpenTextFileWriter("D:\" & filename, True)
 
         myWriter.WriteLine("----------------------------")
         myWriter.WriteLine("     SLIP GAJI: " & nama)
