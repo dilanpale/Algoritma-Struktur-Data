@@ -114,8 +114,6 @@ Module Module1
             End If
         Loop
 
-
-        'Gaji pokok
         If golongan = 1 Then
             gajiGol = 1500000
         ElseIf golongan = 2 Then
@@ -125,7 +123,6 @@ Module Module1
         End If
         gajiPokok = gajiGol
 
-        'Tunjangan istri
         tunjanganistri = 0
         If jk = "L" And kawin = "KAWIN" Then
             If golongan = 1 Then
@@ -136,8 +133,6 @@ Module Module1
                 tunjanganistri = 0.05 * gajiPokok
             End If
         End If
-
-        'Tunjangan anak
         If kawin = "KAWIN" And jmlAnak > 0 Then
             tunjangananak = 0.01 * gajiPokok
             If jmlAnak <= 2 Then
@@ -147,31 +142,26 @@ Module Module1
             End If
         End If
 
-        'Gaji bruto
         gajiBruto = gajiPokok + tunjangananak + tunjanganistri
 
-        'Potongan koperasi
         If statusPegawai = "TETAP" Then
             koperasi = 5000
         Else
             koperasi = 0
         End If
 
-        'Biaya jabatan
         If jabatan = "KEPALA" Then
             biayaJabatan = biayaJabatan + (0.005 * gajiPokok)
         ElseIf jabatan = "MANAGER" Then
             biayaJabatan = biayaJabatan + (0.003 * gajiPokok)
         End If
 
-        'Dana pensiun
         If jabatan = "KEPALA" And statusPegawai = "TETAP" Then
             danaPensiun = danaPensiun + (0.005 * gajiPokok)
         ElseIf jabatan = "MANAGER" And statusPegawai = "TETAP" Then
             danaPensiun = danaPensiun + (0.003 * gajiPokok)
         End If
 
-        'Gaji netto
         gajiNetto = gajiBruto - (koperasi + biayaJabatan + danaPensiun)
 
         Clear()
