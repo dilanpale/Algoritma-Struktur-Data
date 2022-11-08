@@ -1,0 +1,19 @@
+﻿----------------------------
+     SLIP GAJI: ilham
+----------------------------
+1. Golongan          : 3
+2. Jabatan           : KEPALA
+3. Status Pegawai    : TETAP
+4. Jenis Kelamin     : L
+5. Status Kawin      : KAWIN
+6. Jumlah Anak       : 2
+7. Gaji Pokok        : Rp 3.500.000,00
+8. Tunjangan Istri   : Rp  175.000,00
+9. Tunjangan Anak    : Rp  70.000,00
+        Gaji Bruto   : Rp  3.745.000,00
+10. Potongan Koperasi: Rp  5.000,00
+11. Biaya Jabatan    : Rp  17.500,00
+12. Dana Pensiun     : Rp  17.500,00
+        Gaji Netto   : Rp  3.705.000,00
+----------------------------
+

@@ -1,0 +1,9 @@
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\[Coding] Dilan 7-11-22 VB\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\[Coding] Dilan 7-11-22 VB\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\[Coding] Dilan 7-11-22 VB\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\[Coding] Dilan 7-11-22 VB\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\[Coding] Dilan 7-11-22 VB\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\[Coding] Dilan 7-11-22 VB\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\[Coding] Dilan 7-11-22 VB\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\[Coding] Dilan 7-11-22 VB\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\[Coding] Dilan 7-11-22 VB\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
